@@ -17,9 +17,7 @@ Sales are stored in `data/sales_log.csv` with columns:
 pip install -r requirements.txt
 Run analytics
 bash
-Copier le code
 python analysis.py
 Generate a clean report
 bash
-Copier le code
 python report.py
