@@ -1,0 +1,11 @@
+timestamp,product_id,product_name,quantity,unit_price,cashier_id,line_id
+2025-08-02T09:10:00+00:00,DARK_70,Dark Chocolate 70%,3,4.20,C1,L1
+2025-08-02T11:31:00+00:00,MILK_CLASSIC,Milk Chocolate Classic,5,2.30,C2,L2
+2025-09-14T10:22:11+00:00,HAZELNUT,Hazelnut Bar,2,3.10,C1,L2
+2025-09-20T15:05:42+00:00,CARAMEL,Caramel Squares,6,1.80,C3,L1
+2025-10-01T08:02:00+00:00,DARK_70,Dark Chocolate 70%,4,4.20,C2,L3
+2025-10-15T18:40:00+00:00,MILK_CLASSIC,Milk Chocolate Classic,8,2.30,C4,L2
+2025-11-03T12:18:00+00:00,CARAMEL,Caramel Squares,10,1.80,C1,L1
+2025-12-21T16:59:00+00:00,HAZELNUT,Hazelnut Bar,7,3.10,C3,L3
+2026-01-05T10:05:00+00:00,DARK_70,Dark Chocolate 70%,2,4.20,C2,L1
+2026-01-12T13:44:00+00:00,MILK_CLASSIC,Milk Chocolate Classic,9,2.30,C1,L2
